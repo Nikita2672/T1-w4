@@ -38,7 +38,7 @@ java -jar target/T1-w4-1.0-SNAPSHOT.jar
 
 В качестве доказательства работоспособности приложения были написаны unit-test-ы. Ознакомиться с ними вы можете перейдя по [ссылке](src/test/java/com/example/SecurityTest.java)
 
-## 6. Документация
+### 6. Документация
 
 С документацией openAPI разработанного приложения вы можете ознакомиться перейдя по [ссылке](http://localhost:8082/swagger-ui/index.html#/album-controller/getAllAlbums)
 
