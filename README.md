@@ -30,15 +30,15 @@ java -jar target/T1-w4-1.0-SNAPSHOT.jar
 Соответственно `ROLE_POSTS_VIEWERS`, `ROLE_POSTS_EDITORS` могут ходить на следующую ручку `/api/posts/**`,
 а роли `ROLE_ALBUMS_VIEWERS`, `ROLE_ALBUMS_EDITORS` могут ходить на `/api/albums/**`.
 
-### 3. Даталогическая модель базы данных
+### 4. Даталогическая модель базы данных
 
 ![img.png](links/datalogic_model.png)
 
-### 4. Тестирование
+### 5. Тестирование
 
 В качестве доказательства работоспособности приложения были написаны unit-test-ы. Ознакомиться с ними вы можете перейдя по [ссылке](src/test/java/com/example/SecurityTest.java)
 
-## 5. Документация
+## 6. Документация
 
 С документацией openAPI разработанного приложения вы можете ознакомиться перейдя по [ссылке](http://localhost:8082/swagger-ui/index.html#/album-controller/getAllAlbums)
 
